@@ -1,0 +1,83 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.12.2013 06:06:08
+
+newmtl Body
+	Ns 61.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5580 0.5580 0.5580
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\AAAAAAAAAA - ZBRUSH STUFF\Teddy Dog\teddydogtextures\bodyzbrushhighpoly.BMP
+	map_Kd F:\AAAAAAAAAA - ZBRUSH STUFF\Teddy Dog\teddydogtextures\bodyzbrushhighpoly.BMP
+	map_bump F:\AAAAAAAAAA - ZBRUSH STUFF\Teddy Dog\teddydogtextures\teddydogtextureNormal.jpg
+	bump F:\AAAAAAAAAA - ZBRUSH STUFF\Teddy Dog\teddydogtextures\teddydogtextureNormal.jpg
+
+newmtl eeelds
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6706 0.5647 0.5294
+	Kd 0.6706 0.5647 0.5294
+	Ks 0.1980 0.1980 0.1980
+	Ke 0.0000 0.0000 0.0000
+
+newmtl eyes
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 2.2950 2.2950 2.2950
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\AAAAAAAAAA - ZBRUSH STUFF\Teddy Dog\teddydogtextures\eyeszbrush.BMP
+	map_Kd F:\AAAAAAAAAA - ZBRUSH STUFF\Teddy Dog\teddydogtextures\eyeszbrush.BMP
+
+newmtl teeth
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0350 1.0350 1.0350
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__19_Noise.tga
+	map_Kd Map__19_Noise.tga
+
+newmtl T_SHIRT
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6471 0.5882 0.8627
+	Kd 0.6471 0.5882 0.8627
+	Ks 0.0540 0.0540 0.0540
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__24_Composite.tga
+	map_Kd Map__24_Composite.tga
+	map_bump -bm 0.3000 Color_Correction_Marble.tga
+
+newmtl wire_088144225
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3451 0.5647 0.8824
+	Kd 0.3451 0.5647 0.8824
+	Ks 0.3500 0.3500 0.3500

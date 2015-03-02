@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: d7cbb5a4e1f076f498496fd3e709ee3b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bodyzbrushlowpoly
+    100002: Camera001
+    100004: Camera001.Target
+    100006: eyeleedszbrush
+    100008: eyeszbrush
+    100010: eyeszbrush_MeshPart0
+    100012: eyeszbrush_MeshPart1
+    100014: t-shirtzbrush
+    100016: t-shirtzbrush_MeshPart0
+    100018: t-shirtzbrush_MeshPart1
+    100020: //RootNode
+    100022: teethzbrush
+    400000: bodyzbrushlowpoly
+    400002: Camera001
+    400004: Camera001.Target
+    400006: eyeleedszbrush
+    400008: eyeszbrush
+    400010: eyeszbrush_MeshPart0
+    400012: eyeszbrush_MeshPart1
+    400014: t-shirtzbrush
+    400016: t-shirtzbrush_MeshPart0
+    400018: t-shirtzbrush_MeshPart1
+    400020: //RootNode
+    400022: teethzbrush
+    2300000: bodyzbrushlowpoly
+    2300002: eyeleedszbrush
+    2300004: eyeszbrush_MeshPart0
+    2300006: eyeszbrush_MeshPart1
+    2300008: t-shirtzbrush_MeshPart0
+    2300010: t-shirtzbrush_MeshPart1
+    2300012: teethzbrush
+    3300000: bodyzbrushlowpoly
+    3300002: eyeleedszbrush
+    3300004: eyeszbrush_MeshPart0
+    3300006: eyeszbrush_MeshPart1
+    3300008: t-shirtzbrush_MeshPart0
+    3300010: t-shirtzbrush_MeshPart1
+    3300012: teethzbrush
+    4300000: eyeleedszbrush
+    4300002: eyeszbrush_MeshPart0
+    4300004: eyeszbrush_MeshPart1
+    4300006: teethzbrush
+    4300008: t-shirtzbrush_MeshPart0
+    4300010: t-shirtzbrush_MeshPart1
+    4300012: bodyzbrushlowpoly
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
